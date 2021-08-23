@@ -28,7 +28,8 @@ console.log("The backpack object:", backpack);
 console.log("The pocketNum value:", backpack.pocketNum);
 
 /*
-access method, update method by passing args, then run the method again to see updation
+access method, update method by passing args, 
+then run the method again to see updation
 */
 console.log("Left Before: ", backpack.strapLength.left); 
 backpack.newStrapLength(30,30)
