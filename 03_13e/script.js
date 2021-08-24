@@ -13,7 +13,7 @@ const everydayPack = new Backpack(
   26,
   26,
   false,
-  "December 5, 2018 15:00:00 PST"
+  "August 25, 2018 03:32:00 PST"
 );
 
 console.log("The everydayPack object:", everydayPack);
