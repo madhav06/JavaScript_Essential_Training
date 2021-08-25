@@ -34,4 +34,4 @@ _Web Designer and Developer_
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/morten-rand-hendriksen?u=104).
 
 [lil-course-url]: https://www.linkedin.com/learning/javascript-essential-training
-[lil-thumbnail-url]: https://github.com/madhav06/JavaScript_Essential_Training/blob/master/Untitled%20design.pdf
+[lil-thumbnail-url]: https://github.com/madhav06/projectImages/commit/79406990d475ae7c815614db11936a10bf721b1a
